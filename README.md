@@ -1,1 +1,2 @@
-# html_recipes
+# Recipes site using only HTML
+
